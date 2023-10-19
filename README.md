@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdedoyinAbike
-- 👀 I’m interested in machine learnng
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning c programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
